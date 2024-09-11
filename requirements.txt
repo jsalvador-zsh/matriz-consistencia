@@ -1,0 +1,6 @@
+# Ejecutar este comando:
+# pip install -r requirements.txt
+
+pyqt6
+pandas
+openpyxl
